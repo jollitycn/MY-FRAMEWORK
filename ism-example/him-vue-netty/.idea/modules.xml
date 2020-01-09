@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/him-netty-master/him.iml" filepath="$PROJECT_DIR$/him-netty-master/him.iml" />
+      <module fileurl="file://$PROJECT_DIR$/him-netty-master/him-api/him-api.iml" filepath="$PROJECT_DIR$/him-netty-master/him-api/him-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/him-netty-master/him-common/him-common.iml" filepath="$PROJECT_DIR$/him-netty-master/him-common/him-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/him-vue-netty.iml" filepath="$PROJECT_DIR$/.idea/him-vue-netty.iml" />
+    </modules>
+  </component>
+</project>

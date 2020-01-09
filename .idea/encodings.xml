@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/ism-framework/ism-common/ism-common-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ism-framework/ism-common/ism-common-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ism-framework/ism-common/ism-common-data/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ism-framework/ism-common/ism-common-log/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ism-framework/ism-common/ism-common-log/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ism-framework/ism-common/ism-common-minio/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ism-framework/ism-common/ism-common-minio/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ism-framework/ism-common/ism-common-schedule/ism-common-job/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ism-framework/ism-common/ism-common-schedule/ism-common-quartz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ism-framework/ism-common/ism-common-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ism-framework/ism-common/ism-common-security/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ism-framework/ism-common/ism-common-swagger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ism-framework/ism-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ism-framework/ism-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ism-framework/ism-modules/ism-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ism-framework/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ism-framework/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ism-project/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ism-project/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/readme.md" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

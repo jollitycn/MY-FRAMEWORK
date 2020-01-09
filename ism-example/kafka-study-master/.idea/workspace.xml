@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectId" id="1VPTF7sLSa7PyBkUySek8sUQ87E" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577153684044">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="414" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1577153684044" />
+    <state x="806" y="399" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1577153728224">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="806" y="399" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1577153728224" />
+  </component>
+</project>

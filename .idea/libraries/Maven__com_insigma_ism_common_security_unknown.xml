@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.insigma:ism-common-security:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/insigma/ism-common-security/unknown/ism-common-security-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/insigma/ism-common-security/unknown/ism-common-security-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/insigma/ism-common-security/unknown/ism-common-security-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

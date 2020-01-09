@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ism.iml" filepath="$PROJECT_DIR$/.idea/ism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-modules/ism-admin/ism-admin.iml" filepath="$PROJECT_DIR$/ism-framework/ism-modules/ism-admin/ism-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-auth/ism-auth.iml" filepath="$PROJECT_DIR$/ism-framework/ism-auth/ism-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-auth/ism-auth-client/ism-auth-client.iml" filepath="$PROJECT_DIR$/ism-framework/ism-auth/ism-auth-client/ism-auth-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-auth/ism-auth-common/ism-auth-common.iml" filepath="$PROJECT_DIR$/ism-framework/ism-auth/ism-auth-common/ism-auth-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-auth/ism-auth-server/ism-auth-server.iml" filepath="$PROJECT_DIR$/ism-framework/ism-auth/ism-auth-server/ism-auth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-common/ism-common.iml" filepath="$PROJECT_DIR$/ism-framework/ism-common/ism-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-common/ism-common-core/ism-common-core.iml" filepath="$PROJECT_DIR$/ism-framework/ism-common/ism-common-core/ism-common-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-common/ism-common-data/ism-common-data.iml" filepath="$PROJECT_DIR$/ism-framework/ism-common/ism-common-data/ism-common-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-common/ism-common-schedule/ism-common-job/ism-common-job.iml" filepath="$PROJECT_DIR$/ism-framework/ism-common/ism-common-schedule/ism-common-job/ism-common-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-common/ism-common-log/ism-common-log.iml" filepath="$PROJECT_DIR$/ism-framework/ism-common/ism-common-log/ism-common-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-common/ism-common-minio/ism-common-minio.iml" filepath="$PROJECT_DIR$/ism-framework/ism-common/ism-common-minio/ism-common-minio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-common/ism-common-schedule/ism-common-quartz/ism-common-quartz.iml" filepath="$PROJECT_DIR$/ism-framework/ism-common/ism-common-schedule/ism-common-quartz/ism-common-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-common/ism-common-schedule/ism-common-schedule.iml" filepath="$PROJECT_DIR$/ism-framework/ism-common/ism-common-schedule/ism-common-schedule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-common/ism-common-security/ism-common-security.iml" filepath="$PROJECT_DIR$/ism-framework/ism-common/ism-common-security/ism-common-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-common/ism-common-swagger/ism-common-swagger.iml" filepath="$PROJECT_DIR$/ism-framework/ism-common/ism-common-swagger/ism-common-swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-config/ism-config.iml" filepath="$PROJECT_DIR$/ism-framework/ism-config/ism-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-control/ism-control.iml" filepath="$PROJECT_DIR$/ism-framework/ism-control/ism-control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-control/ism-registry/ism-eureka/ism-eureka.iml" filepath="$PROJECT_DIR$/ism-framework/ism-control/ism-registry/ism-eureka/ism-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-example/ism-example.iml" filepath="$PROJECT_DIR$/ism-example/ism-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-framework.iml" filepath="$PROJECT_DIR$/ism-framework/ism-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-gate/ism-gate.iml" filepath="$PROJECT_DIR$/ism-framework/ism-gate/ism-gate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-modules/ism-generator/ism-generator.iml" filepath="$PROJECT_DIR$/ism-framework/ism-modules/ism-generator/ism-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-modules/ism-interface/ism-interface.iml" filepath="$PROJECT_DIR$/ism-framework/ism-modules/ism-interface/ism-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-modules/ism-modules.iml" filepath="$PROJECT_DIR$/ism-framework/ism-modules/ism-modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-project/ism-project.iml" filepath="$PROJECT_DIR$/ism-project/ism-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-control/ism-registry/ism-registry.iml" filepath="$PROJECT_DIR$/ism-framework/ism-control/ism-registry/ism-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/ism-service-quartz.iml" filepath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/ism-service-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-sidecar/ism-sidecar.iml" filepath="$PROJECT_DIR$/ism-framework/ism-sidecar/ism-sidecar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-sidecar/ism-sidecar-client-demo/ism-sidecar-client-demo.iml" filepath="$PROJECT_DIR$/ism-framework/ism-sidecar/ism-sidecar-client-demo/ism-sidecar-client-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-sidecar/ism-sidecar-server/ism-sidecar-server.iml" filepath="$PROJECT_DIR$/ism-framework/ism-sidecar/ism-sidecar-server/ism-sidecar-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-modules/ism-tool/ism-tool.iml" filepath="$PROJECT_DIR$/ism-framework/ism-modules/ism-tool/ism-tool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-upms/ism-upms.iml" filepath="$PROJECT_DIR$/ism-framework/ism-upms/ism-upms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-upms/ism-upms-api/ism-upms-api.iml" filepath="$PROJECT_DIR$/ism-framework/ism-upms/ism-upms-api/ism-upms-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-upms/ism-upms-biz/ism-upms-biz.iml" filepath="$PROJECT_DIR$/ism-framework/ism-upms/ism-upms-biz/ism-upms-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-example/project.iml" filepath="$PROJECT_DIR$/ism-example/project.iml" />
+    </modules>
+  </component>
+</project>

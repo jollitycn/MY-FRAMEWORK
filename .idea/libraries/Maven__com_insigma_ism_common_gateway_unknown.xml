@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.insigma:ism-common-gateway:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/insigma/ism-common-gateway/unknown/ism-common-gateway-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/insigma/ism-common-gateway/unknown/ism-common-gateway-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/insigma/ism-common-gateway/unknown/ism-common-gateway-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.insigma:ism-common-swagger:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/insigma/ism-common-swagger/unknown/ism-common-swagger-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/insigma/ism-common-swagger/unknown/ism-common-swagger-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/insigma/ism-common-swagger/unknown/ism-common-swagger-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

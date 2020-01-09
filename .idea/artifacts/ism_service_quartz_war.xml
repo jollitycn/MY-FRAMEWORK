@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ism-service-quartz:war">
+    <output-path>$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ism-service-quartz</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="springboot-quartz-demo.war">
+      <element id="artifact" artifact-name="ism-service-quartz:war exploded" />
+    </root>
+  </artifact>
+</component>

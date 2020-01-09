@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ism-project" />
+        <module name="ism-common-data" />
+        <module name="project" />
+        <module name="ism-config" />
+        <module name="ism-registry" />
+        <module name="ism-service-quartz" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="ism-common" target="1.8" />
+      <module name="ism-common-core" target="1.8" />
+      <module name="ism-common-data" target="1.8" />
+      <module name="ism-common-job" target="1.8" />
+      <module name="ism-common-log" target="1.8" />
+      <module name="ism-common-minio" target="1.8" />
+      <module name="ism-common-quartz" target="1.8" />
+      <module name="ism-common-schedule" target="1.8" />
+      <module name="ism-common-security" target="1.8" />
+      <module name="ism-common-swagger" target="1.8" />
+      <module name="ism-config" target="1.8" />
+      <module name="ism-framework" target="1.8" />
+      <module name="ism-project" target="1.8" />
+      <module name="ism-registry" target="1.8" />
+      <module name="ism-service-quartz" target="1.8" />
+      <module name="project" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ism-admin" options="-parameters" />
+      <module name="ism-auth-client" options="-parameters" />
+      <module name="ism-auth-common" options="-parameters" />
+      <module name="ism-auth-server" options="-parameters" />
+      <module name="ism-common-core" options="" />
+      <module name="ism-common-data" options="-parameters" />
+      <module name="ism-common-job" options="" />
+      <module name="ism-common-log" options="" />
+      <module name="ism-common-minio" options="" />
+      <module name="ism-common-security" options="" />
+      <module name="ism-common-swagger" options="" />
+      <module name="ism-config" options="-parameters" />
+      <module name="ism-eureka" options="-parameters" />
+      <module name="ism-example" options="-parameters" />
+      <module name="ism-framework" options="-parameters" />
+      <module name="ism-gate" options="-parameters" />
+      <module name="ism-generator" options="-parameters" />
+      <module name="ism-interface" options="-parameters" />
+      <module name="ism-project" options="-parameters" />
+      <module name="ism-registry" options="-parameters" />
+      <module name="ism-service-quartz" options="-parameters" />
+      <module name="ism-sidecar-client-demo" options="-parameters" />
+      <module name="ism-sidecar-server" options="-parameters" />
+      <module name="ism-tool" options="-parameters" />
+      <module name="ism-upms-api" options="-parameters" />
+      <module name="ism-upms-biz" options="-parameters" />
+      <module name="project" options="-parameters" />
+    </option>
+  </component>
+</project>
