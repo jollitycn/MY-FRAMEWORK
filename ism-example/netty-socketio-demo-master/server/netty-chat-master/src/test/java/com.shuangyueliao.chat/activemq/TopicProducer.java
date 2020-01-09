@@ -13,7 +13,7 @@ public class TopicProducer {
     public static void main(String[] args) throws JMSException {
         // 连接到ActiveMQ服务器
         ActiveMQConnectionFactory factory = new ActiveMQConnectionFactory("username",
-                "password","tcp://127.0.0.1:61616");
+                "password","tcp://jollitycn.com:61616");
         Connection connection = factory.createConnection();
         connection.start();
         Session session = connection.createSession(Boolean.TRUE,

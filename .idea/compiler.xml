@@ -8,8 +8,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ism-project" />
-        <module name="ism-common-data" />
-        <module name="project" />
         <module name="ism-config" />
         <module name="ism-registry" />
         <module name="ism-service-quartz" />

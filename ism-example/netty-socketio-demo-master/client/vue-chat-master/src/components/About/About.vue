@@ -7,13 +7,13 @@
         <h2>Vue.js+Socket.io打造一个智能聊天室</h2>
         <p class="skill"><b>技术栈</b>：</p>
         <div>Vue2(页面构建+数据驱动)<br>Socket.io(实时通信)<br>Vuex(不同组件状态共享)<br>vue-router(路由)<br>axios(发起http请求)<br>SASS(SCSS)<br>Express(上线版本是Koa2)<br>Webpack(自动化构建)<br>Moment.js(时间处理)<br>ES6(贯穿全部)<br>localStorage(HTML5)<br>CSS3(动画及样式)</div>
-        <p class="url"><b>GitHub</b>：<a @touchstart="isHover=true" @touchEnd="isHover=false" :class="{hover: isHover}" href="https://github.com/microzz/" target="_blank">GitHub</a></p>
-        <p class="url"><b>个人网站</b>：<a @touchstart="isHover=true" @touchEnd="isHover=false" :class="{hover: isHover}" href="https://microzz.com/" target="_blank">microzz</a></p>
+        <p class="url"><b>GitHub</b>：<a @touchstart="isHover=true" @touchEnd="isHover=false" :class="{hover: isHover}" href="https://github.com/jollitycn/" target="_blank">GitHub</a></p>
+        <p class="url"><b>个人网站</b>：<a @touchstart="isHover=true" @touchEnd="isHover=false" :class="{hover: isHover}" href="https://jollitycn.com/" target="_blank">jollitycn</a></p>
         <p><br>&nbsp;&nbsp;&nbsp;待业码农，求工作～～如果你觉得该项目不错，还可以请我吃辣条😄↓↓↓</p>
         <div class="help">
-          <img src="./help.png" alt="microzz.com">
+          <img src="./help.png" alt="jollitycn.com">
         </div>
-        <p class="copyright"><b>【声明】</b>：本项目仅供学习交流使用，请不要用作任何商业用途。有任何疑问请联系作者↓ <br>📩：<a href="mailto:zhaohui@microzz.com">zhaohui@microzz.com</a></p>
+        <p class="copyright"><b>【声明】</b>：本项目仅供学习交流使用，请不要用作任何商业用途。有任何疑问请联系作者↓ <br>📩：<a href="mailto:zhaohui@jollitycn.com">zhaohui@jollitycn.com</a></p>
       </div>
       <div @click="showAbout" class="mask"></div>
     </div>

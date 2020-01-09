@@ -49,7 +49,7 @@
         </div>
 
         <!-- <div class="online">
-          microzz上线了
+          jollitycn上线了
         </div> -->
 
       </div>
@@ -84,7 +84,7 @@ export default {
   data() {
     return {
       msgs: localStorage.msgs_group && JSON.parse(localStorage.msgs_group) || [
-        // { date: '2015-11-09 09:57:08', loc: '江西省南昌市', from: 'microzz', avatarUrl: `https://icdn.microzz.com/20170426_vue_chat/icon-avatar${this.random(11)}.svg`, content: 'test', self: false}
+        // { date: '2015-11-09 09:57:08', loc: '江西省南昌市', from: 'jollitycn', avatarUrl: `https://icdn.jollitycn.com/20170426_vue_chat/icon-avatar${this.random(11)}.svg`, content: 'test', self: false}
       ],
       inputContent: '',
       oContent: {},

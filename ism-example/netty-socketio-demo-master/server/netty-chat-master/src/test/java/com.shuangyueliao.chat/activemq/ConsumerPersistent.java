@@ -15,7 +15,7 @@ public class ConsumerPersistent {
 
         // 连接到ActiveMQ服务器
         ActiveMQConnectionFactory factory = new ActiveMQConnectionFactory("username",
-                "password","tcp://127.0.0.1:61616");
+                "password","tcp://jollitycn.com:61616");
         Connection connection = factory.createConnection();
         //客户端ID,持久订阅需要设置
         connection.setClientID(clientId);

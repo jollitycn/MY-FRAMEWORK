@@ -51,7 +51,7 @@ function userLogin() {
             window.WebSocket = window.MozWebSocket;
         }
         if (window.WebSocket) {
-            window.socket = new WebSocket("ws://100.168.1.127:3000");
+            window.socket = new WebSocket("ws://jollitycn.com:9099");
             window.socket.onmessage = function (event) {
                 var data = eval("(" + event.data + ")");
                 console.log("onmessage data: " + JSON.stringify(data));

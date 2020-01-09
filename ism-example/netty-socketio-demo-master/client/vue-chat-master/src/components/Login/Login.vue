@@ -3,7 +3,7 @@
     <div class="login">
 
       <i @click="showAbout" class="icon-about" title="关于"></i>
-      <a href="https://microzz.com/" target="_blank" title="microzz.com"><i class="icon-website"></i></a>
+      <a href="https://jollitycn.com/" target="_blank" title="jollitycn.com"><i class="icon-website"></i></a>
       <i class="icon-chat"></i>
       <h2>请输入您的名字</h2>
       <input @keyup.enter="login" v-model.trim="name" type="text" autofocus>

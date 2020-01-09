@@ -13,7 +13,7 @@ import VueSocketIO from 'vue-socket.io'
 moment.locale('zh-cn');
 Vue.use(new VueSocketIO({
   debug: true,
-  connection: 'http://100.168.1.127:9092/',  //
+  connection: 'http://jollitycn.com:9092/',  //
 }))
 
 Vue.prototype.moment = moment;
@@ -29,7 +29,7 @@ Vue.use(VueAxios, axios);
 const store = new Vuex.Store({
   state: {
     name: '',
-    // avatarUrl: `https://icdn.microzz.com/20170426_vue_chat/icon-avatar${Vue.prototype.random(21)}.svg`,
+    // avatarUrl: `https://icdn.jollitycn.com/20170426_vue_chat/icon-avatar${Vue.prototype.random(21)}.svg`,
     avatarUrl: `http://omratag7g.bkt.clouddn.com/icon-avatar${Vue.prototype.random(21)}.svg`,
     addr: '未知',
     isShowAbout: false

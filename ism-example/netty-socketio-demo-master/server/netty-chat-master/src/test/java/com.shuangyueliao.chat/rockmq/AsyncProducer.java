@@ -14,7 +14,7 @@ import org.apache.rocketmq.remoting.common.RemotingHelper;
 public class AsyncProducer {
     public static void main(String[] args) throws Exception {
         DefaultMQProducer producer = new DefaultMQProducer("aaa");
-        producer.setNamesrvAddr("127.0.0.1:9876");
+        producer.setNamesrvAddr("jollitycn.com:9876");
         producer.start();
         producer.setRetryTimesWhenSendAsyncFailed(0);
         for (int i = 0; i < 10; i++) {

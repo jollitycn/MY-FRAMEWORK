@@ -48,7 +48,7 @@
         </div>
 
         <!-- <div class="online">
-          microzz上线了
+          jollitycn上线了
         </div> -->
 
       </div>
@@ -70,7 +70,7 @@ export default {
   data() {
     return {
       msgs: localStorage.msgs_ai && JSON.parse(localStorage.msgs_ai) || [
-        // { date: '2015-11-09 09:57:08', from: 'microzz', avatarUrl: `http://omratag7g.bkt.clouddn.com/icon-avatar${this.random(11)}.svg`, content: 'test', self: false}
+        // { date: '2015-11-09 09:57:08', from: 'jollitycn', avatarUrl: `http://omratag7g.bkt.clouddn.com/icon-avatar${this.random(11)}.svg`, content: 'test', self: false}
       ],
       inputContent: '',
       oContent: {}
@@ -133,7 +133,7 @@ export default {
               from: '智能机器人',
               content: result.data.result.text,
               self: false,
-              // avatarUrl: 'https://icdn.microzz.com/20170426_vue_chat/icon-ai.svg'
+              // avatarUrl: 'https://icdn.jollitycn.com/20170426_vue_chat/icon-ai.svg'
               avatarUrl: 'http://omratag7g.bkt.clouddn.com/icon-ai.svg'
             })
           })

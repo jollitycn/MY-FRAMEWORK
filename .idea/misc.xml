@@ -12,11 +12,6 @@
       <list>
         <option value="$PROJECT_DIR$/ism-framework/pom.xml" />
         <option value="$PROJECT_DIR$/ism-project/pom.xml" />
-        <option value="$PROJECT_DIR$/ism-example/pom.xml" />
-        <option value="$PROJECT_DIR$/ism-framework/ism-common/ism-common-data/pom.xml" />
-        <option value="$PROJECT_DIR$/ism-framework/ism-common/ism-common-security/pom.xml" />
-        <option value="$PROJECT_DIR$/ism-framework/ism-common/ism-common-core/pom.xml" />
-        <option value="$PROJECT_DIR$/ism-framework/ism-common/ism-common-log/pom.xml" />
         <option value="$PROJECT_DIR$/ism-framework/ism-common/ism-common-job/pom.xml" />
         <option value="$PROJECT_DIR$/ism-framework/ism-config/pom.xml" />
         <option value="$PROJECT_DIR$/ism-framework/ism-control/ism-registry/pom.xml" />
@@ -24,6 +19,16 @@
         <option value="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/pom.xml" />
         <option value="$PROJECT_DIR$/ism-framework/ism-common/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/ism-framework/ism-common/ism-common-minio/pom.xml" />
+        <option value="$PROJECT_DIR$/ism-framework/ism-common/ism-common-schedule/ism-common-job/pom.xml" />
+        <option value="$PROJECT_DIR$/ism-framework/ism-common/ism-common-schedule/ism-common-quartz/pom.xml" />
+        <option value="$PROJECT_DIR$/ism-framework/ism-common/ism-common-schedule/pom.xml" />
+        <option value="$PROJECT_DIR$/ism-framework/ism-common/ism-common-swagger/pom.xml" />
+        <option value="$PROJECT_DIR$/ism-framework/ism-common/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />

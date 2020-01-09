@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/README.md" charset="GBK" />
     <file url="file://$PROJECT_DIR$/ism-framework/ism-common/ism-common-core/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ism-framework/ism-common/ism-common-core/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ism-framework/ism-common/ism-common-data/src/main/java" charset="UTF-8" />
@@ -17,11 +18,11 @@
     <file url="file://$PROJECT_DIR$/ism-framework/ism-config/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ism-framework/ism-modules/ism-interface/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/xncoding/jwt/socket/client/android/MyApplication/app/src/main/java/com/example/myapplication/ClientActivity.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/ism-framework/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ism-framework/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ism-project/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ism-project/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/readme.md" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

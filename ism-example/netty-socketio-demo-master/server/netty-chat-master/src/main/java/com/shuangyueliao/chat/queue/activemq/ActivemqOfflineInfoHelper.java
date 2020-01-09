@@ -30,7 +30,7 @@ public class ActivemqOfflineInfoHelper implements OfflineInfoTransmit {
     private ConcurrentHashMap<Integer, MessageProducer> p2pHashMap = new ConcurrentHashMap();
     private ConcurrentHashMap<String, MessageProducer> groupHashMap = new ConcurrentHashMap<>();
     private ConcurrentMap<Channel, UserInfo> userInfos = UserInfoManager.userInfos;
-    private ConnectionFactory connectionFactory = new ActiveMQConnectionFactory("tcp://127.0.0.1:61616");
+    private ConnectionFactory connectionFactory = new ActiveMQConnectionFactory("tcp://jollitycn.com:61616");
     private ConcurrentHashMap<Channel, Connection> connections = new ConcurrentHashMap();
     @PostConstruct
     public void init() throws Exception {

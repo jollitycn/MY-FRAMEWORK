@@ -13,7 +13,7 @@ public class Consumer {
     public static void main(String[] args) throws Exception{
         //创建连接工厂对象
         ConnectionFactory connectionFactory =
-                new ActiveMQConnectionFactory("tcp://127.0.0.1:61616");
+                new ActiveMQConnectionFactory("tcp://jollitycn.com:61616");
         //获取连接对象
         Connection connection = connectionFactory.createConnection("admin", "admin");
         //开启连接

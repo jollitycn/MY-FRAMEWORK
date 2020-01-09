@@ -132,7 +132,7 @@ location /h5 {
 # API 路径
 location /api
 {
-  proxy_pass http://127.0.0.1:9000/api;
+  proxy_pass http://jollitycn.com:9000/api;
   proxy_http_version 1.1;
   proxy_set_header Upgrade $http_upgrade;
   proxy_set_header Connection "Upgrade";
@@ -141,7 +141,7 @@ location /api
 # ws 路径
 location /ws
 {
-  proxy_pass http://127.0.0.1:9001;
+  proxy_pass http://jollitycn.com:9001;
   proxy_http_version 1.1;
   proxy_set_header Upgrade $http_upgrade;
   proxy_set_header Connection "Upgrade";
