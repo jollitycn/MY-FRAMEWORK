@@ -1,86 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbabb031-4be3-428f-bc58-c145d7ab17ab" name="Default Changelist" comment="增加注册中心ZOOKEEPER">
-      <change afterPath="$PROJECT_DIR$/ism-example/him-vue-netty/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/jollitycn/jwt/handler/ClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/jollitycn/jwt/handler/NettyServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/jollitycn/jwt/model/UserInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/jollitycn/jwt/socket/io/client/IOClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/jollitycn/jwt/socket/io/server/IOServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/jollitycn/socket/netty/client/ClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/jollitycn/socket/netty/client/ClientIniterHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/jollitycn/socket/netty/client/NettyClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/jollitycn/socket/netty/server/NettyServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/jollitycn/socket/netty/server/ServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/jollitycn/socket/netty/server/ServerIniterHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/jollitycn/socket/nio/client/NIOClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/jollitycn/socket/nio/server/NIOServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/xncoding/jwt/socket/client/ClientNetty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/xncoding/jwt/socket/client/android/MyApplication/app/src/main/java/com/example/myapplication/connect/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/xncoding/jwt/socket/client/android/MyApplication/app/src/main/java/com/example/myapplication/connect/NettyClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/xncoding/jwt/socket/client/android/MyApplication/app/src/main/java/com/example/myapplication/constant/UrlConstant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/xncoding/jwt/socket/client/android/MyApplication/app/src/main/java/com/example/myapplication/handler/ClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/xncoding/jwt/socket/client/android/MyApplication/app/src/main/java/com/example/myapplication/handler/NettyClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/xncoding/jwt/socket/client/android/MyApplication/app/src/main/java/com/example/myapplication/thread/ClientThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/him-vue-netty/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/him-vue-netty/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/him-api/src/main/java/com/lmxdawn/him/api/config/DruidStatViewServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/him-api/src/main/java/com/lmxdawn/him/api/config/DruidStatViewServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/him-vue-netty/him-vue-master/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/him-vue-netty/him-vue-master/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/client/default/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/client/default/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/client/vue-chat-master/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/client/vue-chat-master/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/client/vue-chat-master/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/client/vue-chat-master/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/client/vue-chat-master/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/client/vue-chat-master/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/client/vue-chat-master/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/client/vue-chat-master/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/client/vue-chat-master/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/client/vue-chat-master/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/client/vue-chat-master/src/components/About/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/client/vue-chat-master/src/components/About/About.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/client/vue-chat-master/src/components/Chatting/AI.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/client/vue-chat-master/src/components/Chatting/AI.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/client/vue-chat-master/src/components/Chatting/Chatting.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/client/vue-chat-master/src/components/Chatting/Chatting.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/client/vue-chat-master/src/components/Login/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/client/vue-chat-master/src/components/Login/Login.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/client/vue-chat-master/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/client/vue-chat-master/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/server/netty-chat-master/docs/bootstrap/js/chat.js" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/server/netty-chat-master/docs/bootstrap/js/chat.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/server/netty-chat-master/src/main/java/com/shuangyueliao/chat/queue/activemq/ActivemqOfflineInfoHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/server/netty-chat-master/src/main/java/com/shuangyueliao/chat/queue/activemq/ActivemqOfflineInfoHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/server/netty-chat-master/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/server/netty-chat-master/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/server/netty-chat-master/src/test/java/com.shuangyueliao.chat/activemq/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/server/netty-chat-master/src/test/java/com.shuangyueliao.chat/activemq/Consumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/server/netty-chat-master/src/test/java/com.shuangyueliao.chat/activemq/ConsumerPersistent.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/server/netty-chat-master/src/test/java/com.shuangyueliao.chat/activemq/ConsumerPersistent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/server/netty-chat-master/src/test/java/com.shuangyueliao.chat/activemq/Send.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/server/netty-chat-master/src/test/java/com.shuangyueliao.chat/activemq/Send.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/server/netty-chat-master/src/test/java/com.shuangyueliao.chat/activemq/TopicProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/server/netty-chat-master/src/test/java/com.shuangyueliao.chat/activemq/TopicProducer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/server/netty-chat-master/src/test/java/com.shuangyueliao.chat/rockmq/AsyncProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/server/netty-chat-master/src/test/java/com.shuangyueliao.chat/rockmq/AsyncProducer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/server/netty-chat-master/src/test/java/com.shuangyueliao.chat/rockmq/BroadcastConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/server/netty-chat-master/src/test/java/com.shuangyueliao.chat/rockmq/BroadcastConsumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/server/netty-chat-master/src/test/java/com.shuangyueliao.chat/rockmq/BroadcastProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/server/netty-chat-master/src/test/java/com.shuangyueliao.chat/rockmq/BroadcastProducer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/server/netty-chat-master/src/test/java/com.shuangyueliao.chat/rockmq/OnewayProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/netty-socketio-demo-master/server/netty-chat-master/src/test/java/com.shuangyueliao.chat/rockmq/OnewayProducer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/project.iml" afterDir="false" />
+    <list default="true" id="dbabb031-4be3-428f-bc58-c145d7ab17ab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/ism-framework" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/springboot-socketio/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/xncoding/jwt/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/jollitycn/jwt/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/xncoding/jwt/cache/UserCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/jollitycn/jwt/cache/UserCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/xncoding/jwt/common/JsonConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/jollitycn/jwt/common/JsonConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/xncoding/jwt/common/ServerRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/jollitycn/jwt/common/ServerRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/xncoding/jwt/config/NettySocketConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/jollitycn/jwt/config/NettySocketConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/xncoding/jwt/config/properties/MyProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/jollitycn/jwt/config/properties/MyProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/xncoding/jwt/emit/Emit.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/jollitycn/jwt/emit/Emit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/xncoding/jwt/handler/ChatClientHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/xncoding/jwt/handler/MessageEventHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/jollitycn/jwt/handler/MessageEventHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/xncoding/jwt/init/ChatClientInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/jollitycn/jwt/init/ChatClientInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/xncoding/jwt/model/ChatMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/jollitycn/jwt/model/ChatMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/xncoding/jwt/model/LoginRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/jollitycn/jwt/model/LoginRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/xncoding/jwt/util/SocketUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/main/java/com/jollitycn/jwt/util/SocketUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/xncoding/jwt/socket/client/SocketClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/xncoding/jwt/socket/client/SocketClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/xncoding/jwt/socket/client/android/MyApplication/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/xncoding/jwt/socket/client/android/MyApplication/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/xncoding/jwt/socket/client/android/MyApplication/app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/xncoding/jwt/socket/client/android/MyApplication/app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/xncoding/jwt/socket/client/android/MyApplication/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/xncoding/jwt/socket/client/android/MyApplication/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/xncoding/jwt/socket/client/android/MyApplication/app/src/main/java/com/example/myapplication/MyClientHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/xncoding/jwt/socket/client/android/MyApplication/app/src/main/java/com/example/myapplication/MyClientInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/xncoding/jwt/socket/client/android/MyApplication/app/src/main/java/com/example/myapplication/connect/ClientInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/xncoding/jwt/socket/client/android/MyApplication/app/src/main/java/com/example/myapplication/data/LoginDataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/xncoding/jwt/socket/client/android/MyApplication/app/src/main/java/com/example/myapplication/data/LoginDataSource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/xncoding/jwt/socket/client/android/MyApplication/app/src/main/java/com/example/myapplication/ui/login/LoginActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/xncoding/jwt/socket/client/android/MyApplication/app/src/main/java/com/example/myapplication/ui/login/LoginActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/springboot-web/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/springboot-web/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,6 +29,12 @@
         <option value="366088118@qq.com" />
         <option value="3660881182" />
       </list>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ism-framework" />
     <option name="SIGN_OFF_COMMIT" value="true" />
@@ -313,6 +241,7 @@
       <workItem from="1578737061347" duration="5381000" />
       <workItem from="1578864283883" duration="7948000" />
       <workItem from="1578972816481" duration="1327000" />
+      <workItem from="1579009067492" duration="225000" />
     </task>
     <task id="LOCAL-00001" summary="增加配置中心">
       <created>1577176185838</created>
@@ -377,7 +306,21 @@
       <option name="project" value="LOCAL" />
       <updated>1578363269511</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="test">
+      <created>1579009117360</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1579009117360</updated>
+    </task>
+    <task id="LOCAL-00011" summary="test">
+      <created>1579009266958</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1579009266958</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -393,7 +336,8 @@
     <MESSAGE value="增加配置中心" />
     <MESSAGE value="框架优化" />
     <MESSAGE value="增加注册中心ZOOKEEPER" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加注册中心ZOOKEEPER" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="507" y="136" key="#Custom_Plugin_Repositories" timestamp="1577690481449">
@@ -452,10 +396,10 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="672" y="373" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1019@0.0.1920.1019" timestamp="1577352625188" />
-    <state x="273" y="35" width="1150" height="944" key="CommitChangelistDialog2" timestamp="1579009115611">
+    <state x="273" y="35" width="1150" height="944" key="CommitChangelistDialog2" timestamp="1579009261919">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="273" y="35" width="1150" height="944" key="CommitChangelistDialog2/0.0.1920.1019@0.0.1920.1019" timestamp="1579009115611" />
+    <state x="273" y="35" width="1150" height="944" key="CommitChangelistDialog2/0.0.1920.1019@0.0.1920.1019" timestamp="1579009261919" />
     <state width="456" height="466" key="DebuggerActiveHint" timestamp="1577354078597">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
@@ -533,10 +477,10 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="220" y="75" width="1543" height="867" key="SettingsEditor/0.0.1920.1019@0.0.1920.1019" timestamp="1578552940689" />
-    <state x="552" y="243" key="Vcs.Push.Dialog.v2" timestamp="1579009171122">
+    <state x="552" y="243" key="Vcs.Push.Dialog.v2" timestamp="1579009483190">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="552" y="243" key="Vcs.Push.Dialog.v2/0.0.1920.1019@0.0.1920.1019" timestamp="1579009171122" />
+    <state x="552" y="243" key="Vcs.Push.Dialog.v2/0.0.1920.1019@0.0.1920.1019" timestamp="1579009483190" />
     <state x="640" y="334" key="com.intellij.ide.util.TipDialog" timestamp="1578539595134">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
@@ -553,6 +497,10 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="390" y="315" width="950" height="600" key="find.popup/0.0.1920.1019@0.0.1920.1019" timestamp="1578907088264" />
+    <state x="467" y="301" key="git4idea.merge.GitPullDialog" timestamp="1579009511934">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="467" y="301" key="git4idea.merge.GitPullDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1579009511934" />
     <state x="428" y="239" key="new project wizard" timestamp="1578448400435">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
