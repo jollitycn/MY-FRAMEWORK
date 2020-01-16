@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbabb031-4be3-428f-bc58-c145d7ab17ab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ism-framework" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/jollitycn/jwt/socket/client/android/socket-chat-for-android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/jollitycn/jwt/socket/client/android/socket-chat-for-android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/jollitycn/jwt/socket/client/android/socket-chat-for-android/app/src/main/java/com/github/nkzawa/socketio/androidchat/JsonConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/jollitycn/jwt/socket/client/android/socket-chat-for-android/app/src/main/java/com/github/nkzawa/socketio/androidchat/JsonConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/jollitycn/jwt/socket/client/android/socket-chat-for-android/app/src/main/java/com/github/nkzawa/socketio/androidchat/LoginActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/jollitycn/jwt/socket/client/android/socket-chat-for-android/app/src/main/java/com/github/nkzawa/socketio/androidchat/LoginActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +39,7 @@
         <option name="title" value="All" />
       </GitPushTagMode>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ism-framework" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ism-framework/springboot-socketio" />
     <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="MavenImportPreferences">
@@ -94,7 +97,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.43344334" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -241,7 +244,7 @@
       <workItem from="1578737061347" duration="5381000" />
       <workItem from="1578864283883" duration="7948000" />
       <workItem from="1578972816481" duration="1327000" />
-      <workItem from="1579009067492" duration="225000" />
+      <workItem from="1579009067492" duration="2868000" />
     </task>
     <task id="LOCAL-00001" summary="增加配置中心">
       <created>1577176185838</created>
@@ -320,7 +323,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579009266958</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="test">
+      <created>1579009542187</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1579009542187</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,10 +354,10 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="507" y="136" key="#Custom_Plugin_Repositories/0.0.1920.1019@0.0.1920.1019" timestamp="1577690481449" />
-    <state x="611" y="227" key="#Notifications" timestamp="1577253454515">
+    <state x="611" y="227" key="#Notifications" timestamp="1579009899223">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="611" y="227" key="#Notifications/0.0.1920.1019@0.0.1920.1019" timestamp="1577253454515" />
+    <state x="611" y="227" key="#Notifications/0.0.1920.1019@0.0.1920.1019" timestamp="1579009899223" />
     <state x="309" y="168" width="1330" height="762" key="#Project_Structure" timestamp="1578041234741">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
@@ -396,10 +406,10 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="672" y="373" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1019@0.0.1920.1019" timestamp="1577352625188" />
-    <state x="273" y="35" width="1150" height="944" key="CommitChangelistDialog2" timestamp="1579009261919">
+    <state x="273" y="35" width="1150" height="944" key="CommitChangelistDialog2" timestamp="1579009539988">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="273" y="35" width="1150" height="944" key="CommitChangelistDialog2/0.0.1920.1019@0.0.1920.1019" timestamp="1579009261919" />
+    <state x="273" y="35" width="1150" height="944" key="CommitChangelistDialog2/0.0.1920.1019@0.0.1920.1019" timestamp="1579009539988" />
     <state width="456" height="466" key="DebuggerActiveHint" timestamp="1577354078597">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
@@ -473,14 +483,14 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="600" y="207" key="NewModule_or_Project.wizard/0.0.1920.1019@0.0.1920.1019" timestamp="1578290773352" />
-    <state x="220" y="75" width="1543" height="867" key="SettingsEditor" timestamp="1578552940689">
+    <state x="220" y="75" width="1543" height="867" key="SettingsEditor" timestamp="1579009760599">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="220" y="75" width="1543" height="867" key="SettingsEditor/0.0.1920.1019@0.0.1920.1019" timestamp="1578552940689" />
-    <state x="552" y="243" key="Vcs.Push.Dialog.v2" timestamp="1579009483190">
+    <state x="220" y="75" width="1543" height="867" key="SettingsEditor/0.0.1920.1019@0.0.1920.1019" timestamp="1579009760599" />
+    <state x="552" y="243" key="Vcs.Push.Dialog.v2" timestamp="1579009891036">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="552" y="243" key="Vcs.Push.Dialog.v2/0.0.1920.1019@0.0.1920.1019" timestamp="1579009483190" />
+    <state x="552" y="243" key="Vcs.Push.Dialog.v2/0.0.1920.1019@0.0.1920.1019" timestamp="1579009891036" />
     <state x="640" y="334" key="com.intellij.ide.util.TipDialog" timestamp="1578539595134">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
