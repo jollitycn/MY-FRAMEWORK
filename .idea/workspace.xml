@@ -4479,7 +4479,8 @@
     </configuration>
     <configuration name="SpringbootQuartzDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="ism-service-quartz" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.quartz.cn.springbootquartzdemo.SpringbootQuartzDemoApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.quartz.cn.quartz.quartzApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -4495,6 +4496,7 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Application.HttpClientTest" />
       <item itemvalue="HTTP Request.Unnamed" />
       <item itemvalue="JavaScript Debug.index.html (2)" />
       <item itemvalue="JavaScript Debug.index.html" />
@@ -4503,7 +4505,6 @@
       <item itemvalue="Spring Boot.IsmComponentApplication" />
       <item itemvalue="Spring Boot.ProjectApplication" />
       <item itemvalue="Spring Boot.SpringbootQuartzDemoApplication" />
-      <item itemvalue="Application.HttpClientTest" />
     </list>
     <recent_temporary>
       <list>
@@ -4572,7 +4573,7 @@
       <workItem from="1579009067492" duration="2868000" />
       <workItem from="1579149550178" duration="4236000" />
       <workItem from="1579229411634" duration="6609000" />
-      <workItem from="1579482753857" duration="4658000" />
+      <workItem from="1579482753857" duration="4772000" />
     </task>
     <task id="LOCAL-00001" summary="增加配置中心">
       <created>1577176185838</created>
@@ -4703,7 +4704,8 @@
     <MESSAGE value="框架优化" />
     <MESSAGE value="增加注册中心ZOOKEEPER" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="update for quartz" />
+    <option name="LAST_COMMIT_MESSAGE" value="update for quartz" />
   </component>
   <component name="WindowStateProjectService">
     <state x="507" y="136" key="#Custom_Plugin_Repositories" timestamp="1577690481449">
@@ -4718,10 +4720,10 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="309" y="168" width="1330" height="762" key="#Project_Structure/0.0.1920.1019@0.0.1920.1019" timestamp="1578041234741" />
-    <state x="414" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578468963055">
+    <state x="414" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579487896170">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="414" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1578468963055" />
+    <state x="414" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1579487896170" />
     <state x="689" y="312" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578571496218">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
@@ -4730,10 +4732,10 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1019@0.0.1920.1019" timestamp="1578297936676" />
-    <state x="689" y="293" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1577260650444">
+    <state x="689" y="293" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579487893500">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="689" y="293" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1577260650444" />
+    <state x="689" y="293" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1579487893500" />
     <state x="806" y="399" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1578292010000">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
@@ -4843,10 +4845,10 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="220" y="75" width="1543" height="867" key="SettingsEditor/0.0.1920.1019@0.0.1920.1019" timestamp="1579009760599" />
-    <state x="552" y="243" key="Vcs.Push.Dialog.v2" timestamp="1579154137330">
+    <state x="552" y="243" key="Vcs.Push.Dialog.v2" timestamp="1579487951831">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="552" y="243" key="Vcs.Push.Dialog.v2/0.0.1920.1019@0.0.1920.1019" timestamp="1579154137330" />
+    <state x="552" y="243" key="Vcs.Push.Dialog.v2/0.0.1920.1019@0.0.1920.1019" timestamp="1579487951831" />
     <state x="759" y="287" key="chooseDestDirectoryDialog" timestamp="1579483841811">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
