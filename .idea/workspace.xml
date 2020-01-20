@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbabb031-4be3-428f-bc58-c145d7ab17ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_22.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/.idea/artifacts/springboot_socketio_war_exploded.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
@@ -4209,115 +4207,21 @@
       <change afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/target/test-classes/springboot-socketio-1.0.0-SNAPSHOT/WEB-INF/lib/spring-beans-5.0.8.RELEASE.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/target/test-classes/springboot-socketio-1.0.0-SNAPSHOT/WEB-INF/lib/spring-boot-autoconfigure-2.0.4.RELEASE.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/target/test-classes/springboot-socketio-1.0.0-SNAPSHOT/WEB-INF/lib/spring-expression-5.0.8.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/ism_service_quartz_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/ism_service_quartz_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_dangdang_elastic_job_common_core_2_1_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_dangdang_elastic_job_lite_core_2_1_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_dangdang_elastic_job_lite_spring_2_1_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_annotations_3_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_http_client_google_http_client_1_20_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_http_client_google_http_client_xml_1_20_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_12_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_minio_minio_3_0_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_client_2_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_framework_2_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_recipes_2_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_quartz_scheduler_quartz_2_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_1_1_4c.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/him-api/src/main/java/com/lmxdawn/him/api/controller/group/GroupMsgController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/him-api/src/main/java/com/lmxdawn/him/api/controller/group/GroupMsgController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/him-api/src/main/java/com/lmxdawn/him/api/controller/user/UserFriendAskController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/him-api/src/main/java/com/lmxdawn/him/api/controller/user/UserFriendAskController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/him-api/src/main/java/com/lmxdawn/him/api/controller/user/UserFriendMsgController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/him-api/src/main/java/com/lmxdawn/him/api/controller/user/UserFriendMsgController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/him-api/src/main/java/com/lmxdawn/him/api/dao/group/GroupMsgDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/him-api/src/main/java/com/lmxdawn/him/api/dao/group/GroupMsgDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/him-api/src/main/java/com/lmxdawn/him/api/service/group/GroupMsgService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/him-api/src/main/java/com/lmxdawn/him/api/service/group/GroupMsgService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/him-api/src/main/java/com/lmxdawn/him/api/service/group/impl/GroupMsgServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/him-api/src/main/java/com/lmxdawn/him/api/service/group/impl/GroupMsgServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/him-api/src/main/java/com/lmxdawn/him/api/service/group/impl/GroupServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/him-api/src/main/java/com/lmxdawn/him/api/service/group/impl/GroupServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/him-api/src/main/java/com/lmxdawn/him/api/service/group/impl/GroupUserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/him-api/src/main/java/com/lmxdawn/him/api/service/group/impl/GroupUserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/him-api/src/main/java/com/lmxdawn/him/api/service/user/impl/UserFriendAskServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/him-api/src/main/java/com/lmxdawn/him/api/service/user/impl/UserFriendAskServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/him-api/src/main/java/com/lmxdawn/him/api/service/user/impl/UserFriendMsgServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/him-api/src/main/java/com/lmxdawn/him/api/service/user/impl/UserFriendMsgServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/him-api/src/main/java/com/lmxdawn/him/api/service/user/impl/UserProfileServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/him-api/src/main/java/com/lmxdawn/him/api/service/user/impl/UserProfileServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/him-api/src/main/java/com/lmxdawn/him/api/service/user/impl/UserQqServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/him-api/src/main/java/com/lmxdawn/him/api/service/user/impl/UserQqServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/him-api/src/main/java/com/lmxdawn/him/api/service/user/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/him-api/src/main/java/com/lmxdawn/him/api/service/user/impl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/him-api/src/main/java/com/lmxdawn/him/api/ws/WSServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/him-api/src/main/java/com/lmxdawn/him/api/ws/WSServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/him-api/src/main/java/com/lmxdawn/him/api/ws/WSServerHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/him-api/src/main/java/com/lmxdawn/him/api/ws/WSServerHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/him-api/src/main/resources/mybatis/mapper/group/GroupMsgDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/him-api/src/main/resources/mybatis/mapper/group/GroupMsgDao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/him-common/src/main/java/com/lmxdawn/him/common/protobuf/WSBaseResProtoOuterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-example/him-vue-netty/him-netty-master/him-common/src/main/java/com/lmxdawn/him/common/protobuf/WSBaseResProtoOuterClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ism-framework" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-common/ism-common-core/ism-common-core.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-common/ism-common-core/ism-common-core.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-common/ism-common-core/src/main/java/com/insigma/common/core/constant/enums/TaskStatusEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-common/ism-common-core/src/main/java/com/insigma/common/core/constant/enums/TaskStatusEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-common/ism-common-data/ism-common-data.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-common/ism-common-data/ism-common-data.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-common/ism-common-log/ism-common-log.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-common/ism-common-log/ism-common-log.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ism-framework/ism-common/ism-common-security/ism-common-security.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-common/ism-common-security/ism-common-security.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-generator/src/main/resources/static/datas/btable_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-generator/src/main/resources/static/datas/btable_data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-generator/src/main/resources/static/datas/laytpl_laypage_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-generator/src/main/resources/static/datas/laytpl_laypage_data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/ism-service-quartz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/ism-service-quartz.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/SpringbootQuartzDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/SpringbootQuartzDemoApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/bean/QuartzTaskErrors.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/bean/QuartzTaskErrors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/bean/QuartzTaskInformations.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/bean/QuartzTaskInformations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/bean/QuartzTaskRecords.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/bean/QuartzTaskRecords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/controller/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ism-framework/ism-common/ism-common-swagger/ism-common-swagger.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-common/ism-common-swagger/ism-common-swagger.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/SpringbootQuartzDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/QuartzApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/controller/QuartzController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/controller/QuartzController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/dao/QuartzTaskErrorsMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/dao/QuartzTaskErrorsMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/dao/QuartzTaskInformationsMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/dao/QuartzTaskInformationsMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/dao/QuartzTaskRecordsMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/dao/QuartzTaskRecordsMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/job/KafkaListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/job/KafkaListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/job/QuartzMainJobFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/job/QuartzMainJobFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/service/quartz/QuartzService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/service/quartz/QuartzService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/service/quartz/QuartzTaskErrorsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/service/quartz/QuartzTaskErrorsService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/service/quartz/QuartzTaskInformationsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/service/quartz/QuartzTaskInformationsService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/service/quartz/QuartzTaskRecordsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/service/quartz/QuartzTaskRecordsService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/service/quartz/impl/QuartzServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/service/quartz/impl/QuartzServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/service/quartz/impl/QuartzTaskErrorsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/service/quartz/impl/QuartzTaskErrorsServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/service/quartz/impl/QuartzTaskInformationsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/service/quartz/impl/QuartzTaskInformationsServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/service/quartz/impl/QuartzTaskRecordsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/service/quartz/impl/QuartzTaskRecordsServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/util/ApplicationContextHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/util/ApplicationContextHolder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/util/CommonUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/util/CommonUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/util/HttpClientUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/util/HttpClientUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/util/Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/util/Page.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/util/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/util/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/util/ResultEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/util/ResultEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/util/ResultUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/util/ResultUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/vo/QuartzTaskRecordsVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/vo/QuartzTaskRecordsVo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/resources/db/db.sql" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/resources/db/db.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/resources/mapper/QuartzTaskErrorsMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/resources/mapper/QuartzTaskErrorsMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/resources/mapper/QuartzTaskInformationsMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/resources/mapper/QuartzTaskInformationsMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/resources/mapper/QuartzTaskRecordsMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/resources/mapper/QuartzTaskRecordsMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/resources/templates/addtask.html" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/resources/templates/addtask.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/resources/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/resources/templates/taskerrors.html" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/resources/templates/taskerrors.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/resources/templates/taskrecords.html" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/resources/templates/taskrecords.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/resources/templates/updatetask.html" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/resources/templates/updatetask.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/test/java/com/quartz/cn/springbootquartzdemo/SpringbootQuartzDemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/test/java/com/insigma/micService/quartz/SpringbootQuartzDemoApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-system/src/main/java/com/insigma/service/system/service/impl/SysUserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-system/src/main/java/com/insigma/service/system/service/impl/SysUserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-system/src/main/resources/db/db.sql" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-system/src/main/resources/db/db.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-system/src/main/resources/templates/addtask.html" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-system/src/main/resources/templates/addtask.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-system/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-system/src/main/resources/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-system/src/main/resources/templates/taskerrors.html" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-system/src/main/resources/templates/taskerrors.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-system/src/main/resources/templates/taskrecords.html" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-system/src/main/resources/templates/taskrecords.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-system/src/main/resources/templates/updatetask.html" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-system/src/main/resources/templates/updatetask.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-system/src/test/java/com/quartz/cn/springbootquartzdemo/SpringbootQuartzDemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-system/src/test/java/com/quartz/cn/springbootquartzdemo/SpringbootQuartzDemoApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-upms/ism-upms-biz/src/main/java/com/insigma/admin/service/impl/SysLogServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-upms/ism-upms-biz/src/main/java/com/insigma/admin/service/impl/SysLogServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-visual/ism-monitor/node_modules/moment/moment.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-visual/ism-monitor/node_modules/moment/moment.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-visual/ism-monitor/node_modules/node-forge/lib/task.js" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-visual/ism-monitor/node_modules/node-forge/lib/task.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/test/java/com/insigma/micService/quartz/SpringbootQuartzDemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/test/java/com/insigma/micService/quartz/QuartzApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ism-framework/ism-visual/ism-codegen/src/main/java/com/pig4cloud/pigx/codegen/PigxCodeGenApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-visual/ism-codegen/src/main/java/com/pig4cloud/pigx/codegen/IsmCodeGenApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ism-framework/springboot-socketio/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ism-framework/springboot-socketio/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/jollitycn/jwt/socket/client/html/index-group.html" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/jollitycn/jwt/socket/client/html/index-group.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/jollitycn/jwt/socket/client/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/jollitycn/jwt/socket/client/html/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ism-framework/springboot-web/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/springboot-web/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-project/AdminLTE/plugins/pdfmake/pdfmake.js" beforeDir="false" afterPath="$PROJECT_DIR$/ism-project/AdminLTE/plugins/pdfmake/pdfmake.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-project/AdminLTE/plugins/pdfmake/pdfmake.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/ism-project/AdminLTE/plugins/pdfmake/pdfmake.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-project/AdminLTE/plugins/pdfmake/pdfmake.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/ism-project/AdminLTE/plugins/pdfmake/pdfmake.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-project/AdminLTE/plugins/pdfmake/pdfmake.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/ism-project/AdminLTE/plugins/pdfmake/pdfmake.min.js.map" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -4400,7 +4304,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-system/src/main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ism-framework/ism-common/ism-common-swagger" />
     <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.stylelint" value="project" />
@@ -4479,7 +4383,7 @@
     </configuration>
     <configuration name="SpringbootQuartzDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="ism-service-quartz" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.quartz.cn.quartz.quartzApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.insigma.micService.quartz.QuartzApplication" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -4573,7 +4477,7 @@
       <workItem from="1579009067492" duration="2868000" />
       <workItem from="1579149550178" duration="4236000" />
       <workItem from="1579229411634" duration="6609000" />
-      <workItem from="1579482753857" duration="4772000" />
+      <workItem from="1579482753857" duration="5462000" />
     </task>
     <task id="LOCAL-00001" summary="增加配置中心">
       <created>1577176185838</created>
@@ -4687,7 +4591,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579244276768</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="update for quartz">
+      <created>1579488042309</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1579488042309</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -4720,10 +4631,10 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="309" y="168" width="1330" height="762" key="#Project_Structure/0.0.1920.1019@0.0.1920.1019" timestamp="1578041234741" />
-    <state x="414" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579487896170">
+    <state x="414" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579488158527">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="414" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1579487896170" />
+    <state x="414" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1579488158527" />
     <state x="689" y="312" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578571496218">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
@@ -4732,10 +4643,10 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1019@0.0.1920.1019" timestamp="1578297936676" />
-    <state x="689" y="293" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579487893500">
+    <state x="689" y="293" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579488157809">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="689" y="293" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1579487893500" />
+    <state x="689" y="293" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1579488157809" />
     <state x="806" y="399" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1578292010000">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
@@ -4764,91 +4675,91 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="672" y="373" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1019@0.0.1920.1019" timestamp="1577352625188" />
-    <state x="273" y="35" width="1150" height="944" key="CommitChangelistDialog2" timestamp="1579487817669">
+    <state x="273" y="35" width="1150" height="944" key="CommitChangelistDialog2" timestamp="1579488040800">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="273" y="35" width="1150" height="944" key="CommitChangelistDialog2/0.0.1920.1019@0.0.1920.1019" timestamp="1579487817669" />
+    <state x="273" y="35" width="1150" height="944" key="CommitChangelistDialog2/0.0.1920.1019@0.0.1920.1019" timestamp="1579488040800" />
     <state width="456" height="466" key="DebuggerActiveHint" timestamp="1577354078597">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state width="456" height="466" key="DebuggerActiveHint/0.0.1920.1019@0.0.1920.1019" timestamp="1577354078597" />
-    <state x="290" y="22" key="DiffContextDialog" timestamp="1577418057494">
+    <state x="290" y="22" key="DiffContextDialog" timestamp="1579488024242">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="290" y="22" key="DiffContextDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1577418057494" />
-    <state x="798" y="246" width="635" height="683" key="FileChooserDialogImpl" timestamp="1578972843608">
+    <state x="290" y="22" key="DiffContextDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1579488024242" />
+    <state x="798" y="246" width="635" height="683" key="FileChooserDialogImpl" timestamp="1579488485648">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="798" y="246" width="635" height="683" key="FileChooserDialogImpl/0.0.1920.1019@0.0.1920.1019" timestamp="1578972843608" />
+    <state x="798" y="246" width="635" height="683" key="FileChooserDialogImpl/0.0.1920.1019@0.0.1920.1019" timestamp="1579488485648" />
     <state x="798" y="253" key="FileChooserDialogImpl/0.0.1920.1049@0.0.1920.1049" timestamp="1578864614620" />
     <state x="781" y="423" width="382" height="173" key="Github.CreateGistDialog" timestamp="1578487815782">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="781" y="423" width="382" height="173" key="Github.CreateGistDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1578487815782" />
-    <state width="1877" height="301" key="GridCell.Tab.0.bottom" timestamp="1579487745978">
+    <state width="1877" height="368" key="GridCell.Tab.0.bottom" timestamp="1579488340533">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1877" height="301" key="GridCell.Tab.0.bottom/0.0.1920.1019@0.0.1920.1019" timestamp="1579487745978" />
-    <state width="1877" height="301" key="GridCell.Tab.0.center" timestamp="1579487745978">
+    <state width="1877" height="368" key="GridCell.Tab.0.bottom/0.0.1920.1019@0.0.1920.1019" timestamp="1579488340533" />
+    <state width="1877" height="368" key="GridCell.Tab.0.center" timestamp="1579488340533">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1877" height="301" key="GridCell.Tab.0.center/0.0.1920.1019@0.0.1920.1019" timestamp="1579487745978" />
-    <state width="1877" height="301" key="GridCell.Tab.0.left" timestamp="1579487745978">
+    <state width="1877" height="368" key="GridCell.Tab.0.center/0.0.1920.1019@0.0.1920.1019" timestamp="1579488340533" />
+    <state width="1877" height="368" key="GridCell.Tab.0.left" timestamp="1579488340532">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1877" height="301" key="GridCell.Tab.0.left/0.0.1920.1019@0.0.1920.1019" timestamp="1579487745978" />
-    <state width="1877" height="301" key="GridCell.Tab.0.right" timestamp="1579487745978">
+    <state width="1877" height="368" key="GridCell.Tab.0.left/0.0.1920.1019@0.0.1920.1019" timestamp="1579488340532" />
+    <state width="1877" height="368" key="GridCell.Tab.0.right" timestamp="1579488340533">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1877" height="301" key="GridCell.Tab.0.right/0.0.1920.1019@0.0.1920.1019" timestamp="1579487745978" />
-    <state width="1877" height="301" key="GridCell.Tab.1.bottom" timestamp="1579487745978">
+    <state width="1877" height="368" key="GridCell.Tab.0.right/0.0.1920.1019@0.0.1920.1019" timestamp="1579488340533" />
+    <state width="1877" height="368" key="GridCell.Tab.1.bottom" timestamp="1579488340363">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1877" height="301" key="GridCell.Tab.1.bottom/0.0.1920.1019@0.0.1920.1019" timestamp="1579487745978" />
-    <state width="1877" height="301" key="GridCell.Tab.1.center" timestamp="1579487745978">
+    <state width="1877" height="368" key="GridCell.Tab.1.bottom/0.0.1920.1019@0.0.1920.1019" timestamp="1579488340363" />
+    <state width="1877" height="368" key="GridCell.Tab.1.center" timestamp="1579488340363">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1877" height="301" key="GridCell.Tab.1.center/0.0.1920.1019@0.0.1920.1019" timestamp="1579487745978" />
-    <state width="1877" height="301" key="GridCell.Tab.1.left" timestamp="1579487745978">
+    <state width="1877" height="368" key="GridCell.Tab.1.center/0.0.1920.1019@0.0.1920.1019" timestamp="1579488340363" />
+    <state width="1877" height="368" key="GridCell.Tab.1.left" timestamp="1579488340363">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1877" height="301" key="GridCell.Tab.1.left/0.0.1920.1019@0.0.1920.1019" timestamp="1579487745978" />
-    <state width="1877" height="301" key="GridCell.Tab.1.right" timestamp="1579487745978">
+    <state width="1877" height="368" key="GridCell.Tab.1.left/0.0.1920.1019@0.0.1920.1019" timestamp="1579488340363" />
+    <state width="1877" height="368" key="GridCell.Tab.1.right" timestamp="1579488340363">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1877" height="301" key="GridCell.Tab.1.right/0.0.1920.1019@0.0.1920.1019" timestamp="1579487745978" />
-    <state width="1877" height="301" key="GridCell.Tab.2.bottom" timestamp="1579487745978">
+    <state width="1877" height="368" key="GridCell.Tab.1.right/0.0.1920.1019@0.0.1920.1019" timestamp="1579488340363" />
+    <state width="1877" height="368" key="GridCell.Tab.2.bottom" timestamp="1579488340363">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1877" height="301" key="GridCell.Tab.2.bottom/0.0.1920.1019@0.0.1920.1019" timestamp="1579487745978" />
-    <state width="1877" height="301" key="GridCell.Tab.2.center" timestamp="1579487745978">
+    <state width="1877" height="368" key="GridCell.Tab.2.bottom/0.0.1920.1019@0.0.1920.1019" timestamp="1579488340363" />
+    <state width="1877" height="368" key="GridCell.Tab.2.center" timestamp="1579488340363">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1877" height="301" key="GridCell.Tab.2.center/0.0.1920.1019@0.0.1920.1019" timestamp="1579487745978" />
-    <state width="1877" height="301" key="GridCell.Tab.2.left" timestamp="1579487745978">
+    <state width="1877" height="368" key="GridCell.Tab.2.center/0.0.1920.1019@0.0.1920.1019" timestamp="1579488340363" />
+    <state width="1877" height="368" key="GridCell.Tab.2.left" timestamp="1579488340363">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1877" height="301" key="GridCell.Tab.2.left/0.0.1920.1019@0.0.1920.1019" timestamp="1579487745978" />
-    <state width="1877" height="301" key="GridCell.Tab.2.right" timestamp="1579487745978">
+    <state width="1877" height="368" key="GridCell.Tab.2.left/0.0.1920.1019@0.0.1920.1019" timestamp="1579488340363" />
+    <state width="1877" height="368" key="GridCell.Tab.2.right" timestamp="1579488340363">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1877" height="301" key="GridCell.Tab.2.right/0.0.1920.1019@0.0.1920.1019" timestamp="1579487745978" />
+    <state width="1877" height="368" key="GridCell.Tab.2.right/0.0.1920.1019@0.0.1920.1019" timestamp="1579488340363" />
     <state x="739" y="236" key="Maven.ArtifactSearchDialog" timestamp="1578297766061">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="739" y="236" key="Maven.ArtifactSearchDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1578297766061" />
-    <state x="600" y="207" key="NewModule_or_Project.wizard" timestamp="1578290773352">
+    <state x="600" y="207" key="NewModule_or_Project.wizard" timestamp="1579488488158">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="600" y="207" key="NewModule_or_Project.wizard/0.0.1920.1019@0.0.1920.1019" timestamp="1578290773352" />
-    <state x="220" y="75" width="1543" height="867" key="SettingsEditor" timestamp="1579009760599">
+    <state x="600" y="207" key="NewModule_or_Project.wizard/0.0.1920.1019@0.0.1920.1019" timestamp="1579488488158" />
+    <state x="220" y="75" width="1543" height="867" key="SettingsEditor" timestamp="1579488506648">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="220" y="75" width="1543" height="867" key="SettingsEditor/0.0.1920.1019@0.0.1920.1019" timestamp="1579009760599" />
-    <state x="552" y="243" key="Vcs.Push.Dialog.v2" timestamp="1579487951831">
+    <state x="220" y="75" width="1543" height="867" key="SettingsEditor/0.0.1920.1019@0.0.1920.1019" timestamp="1579488506648" />
+    <state x="552" y="243" key="Vcs.Push.Dialog.v2" timestamp="1579488052642">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="552" y="243" key="Vcs.Push.Dialog.v2/0.0.1920.1019@0.0.1920.1019" timestamp="1579487951831" />
+    <state x="552" y="243" key="Vcs.Push.Dialog.v2/0.0.1920.1019@0.0.1920.1019" timestamp="1579488052642" />
     <state x="759" y="287" key="chooseDestDirectoryDialog" timestamp="1579483841811">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
@@ -4865,10 +4776,10 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="273" y="173" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1577426948147" />
-    <state x="150" y="294" width="950" height="600" key="find.popup" timestamp="1579487745445">
+    <state x="150" y="294" width="950" height="600" key="find.popup" timestamp="1579488568902">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="150" y="294" width="950" height="600" key="find.popup/0.0.1920.1019@0.0.1920.1019" timestamp="1579487745445" />
+    <state x="150" y="294" width="950" height="600" key="find.popup/0.0.1920.1019@0.0.1920.1019" timestamp="1579488568902" />
     <state x="467" y="301" key="git4idea.merge.GitPullDialog" timestamp="1579009511934">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>

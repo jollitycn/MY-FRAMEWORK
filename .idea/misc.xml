@@ -18,6 +18,7 @@
         <option value="$PROJECT_DIR$/ism-framework/ism-common/ism-common-schedule/pom.xml" />
         <option value="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/pom.xml" />
         <option value="$PROJECT_DIR$/ism-framework/ism-common/pom.xml" />
+        <option value="$PROJECT_DIR$/ism-framework/ism-common/ism-common-swagger/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
@@ -26,7 +27,6 @@
         <option value="$PROJECT_DIR$/ism-framework/ism-common/ism-common-schedule/ism-common-job/pom.xml" />
         <option value="$PROJECT_DIR$/ism-framework/ism-common/ism-common-schedule/ism-common-quartz/pom.xml" />
         <option value="$PROJECT_DIR$/ism-framework/ism-common/ism-common-schedule/pom.xml" />
-        <option value="$PROJECT_DIR$/ism-framework/ism-common/ism-common-swagger/pom.xml" />
         <option value="$PROJECT_DIR$/ism-framework/ism-common/pom.xml" />
       </set>
     </option>
