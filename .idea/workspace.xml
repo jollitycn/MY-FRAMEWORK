@@ -2,6 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbabb031-4be3-428f-bc58-c145d7ab17ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_amqp_client_5_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_25_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_25_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_25_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_25_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_25_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_25_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_cache_cache_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_cache_2_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/resources/db/db1.sql" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/.idea/artifacts/springboot_socketio_war_exploded.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
@@ -4207,16 +4235,26 @@
       <change afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/target/test-classes/springboot-socketio-1.0.0-SNAPSHOT/WEB-INF/lib/spring-beans-5.0.8.RELEASE.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/target/test-classes/springboot-socketio-1.0.0-SNAPSHOT/WEB-INF/lib/spring-boot-autoconfigure-2.0.4.RELEASE.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/target/test-classes/springboot-socketio-1.0.0-SNAPSHOT/WEB-INF/lib/spring-expression-5.0.8.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/ism_service_quartz_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/ism_service_quartz_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ism-framework" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-common/ism-common-security/ism-common-security.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-common/ism-common-security/ism-common-security.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ism-framework/ism-common/ism-common-swagger/ism-common-swagger.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-common/ism-common-swagger/ism-common-swagger.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/SpringbootQuartzDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/QuartzApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ism-framework/ism-common/ism-common-swagger/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-common/ism-common-swagger/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/ism-service-quartz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/ism-service-quartz.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/QuartzApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/QuartzApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/controller/IndexController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/controller/QuartzController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/java/com/insigma/micService/quartz/controller/QuartzController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/test/java/com/insigma/micService/quartz/SpringbootQuartzDemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/test/java/com/insigma/micService/quartz/QuartzApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ism-framework/ism-visual/ism-codegen/src/main/java/com/pig4cloud/pigx/codegen/PigxCodeGenApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-visual/ism-codegen/src/main/java/com/pig4cloud/pigx/codegen/IsmCodeGenApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/resources/db/db.sql" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/resources/db/db.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/resources/mapper/QuartzTaskErrorsMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/resources/mapper/QuartzTaskErrorsMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/resources/templates/addtask.html" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/resources/templates/addTask.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/resources/templates/taskerrors.html" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/resources/templates/taskErrors.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/resources/templates/taskrecords.html" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/resources/templates/taskRecords.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/resources/templates/updatetask.html" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-quartz/src/main/resources/templates/updateTask.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-system/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-system/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-system/src/main/resources/templates/taskerrors.html" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/ism-modules/ism-service-system/src/main/resources/templates/taskerrors.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ism-framework/springboot-socketio/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ism-framework/springboot-socketio/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/jollitycn/jwt/socket/client/html/index-group.html" beforeDir="false" afterPath="$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/jollitycn/jwt/socket/client/html/index-group.html" afterDir="false" />
@@ -4232,6 +4270,20 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -4288,6 +4340,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="Repository.Attach.Annotations" value="false" />
@@ -4425,7 +4478,17 @@
       <list>
         <serviceView>
           <treeState>
-            <expand />
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@1516b783" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
             <select />
           </treeState>
         </serviceView>
@@ -4477,7 +4540,7 @@
       <workItem from="1579009067492" duration="2868000" />
       <workItem from="1579149550178" duration="4236000" />
       <workItem from="1579229411634" duration="6609000" />
-      <workItem from="1579482753857" duration="5462000" />
+      <workItem from="1579482753857" duration="9720000" />
     </task>
     <task id="LOCAL-00001" summary="增加配置中心">
       <created>1577176185838</created>
@@ -4631,10 +4694,10 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="309" y="168" width="1330" height="762" key="#Project_Structure/0.0.1920.1019@0.0.1920.1019" timestamp="1578041234741" />
-    <state x="414" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579488158527">
+    <state x="414" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579488848305">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="414" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1579488158527" />
+    <state x="414" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1579488848305" />
     <state x="689" y="312" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578571496218">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
@@ -4675,10 +4738,10 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="672" y="373" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1019@0.0.1920.1019" timestamp="1577352625188" />
-    <state x="273" y="35" width="1150" height="944" key="CommitChangelistDialog2" timestamp="1579488040800">
+    <state x="273" y="35" width="1150" height="944" key="CommitChangelistDialog2" timestamp="1579488662878">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="273" y="35" width="1150" height="944" key="CommitChangelistDialog2/0.0.1920.1019@0.0.1920.1019" timestamp="1579488040800" />
+    <state x="273" y="35" width="1150" height="944" key="CommitChangelistDialog2/0.0.1920.1019@0.0.1920.1019" timestamp="1579488662878" />
     <state width="456" height="466" key="DebuggerActiveHint" timestamp="1577354078597">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
@@ -4696,54 +4759,54 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="781" y="423" width="382" height="173" key="Github.CreateGistDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1578487815782" />
-    <state width="1877" height="368" key="GridCell.Tab.0.bottom" timestamp="1579488340533">
+    <state width="1877" height="289" key="GridCell.Tab.0.bottom" timestamp="1579493233354">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1877" height="368" key="GridCell.Tab.0.bottom/0.0.1920.1019@0.0.1920.1019" timestamp="1579488340533" />
-    <state width="1877" height="368" key="GridCell.Tab.0.center" timestamp="1579488340533">
+    <state width="1877" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1019@0.0.1920.1019" timestamp="1579493233354" />
+    <state width="1877" height="289" key="GridCell.Tab.0.center" timestamp="1579493233354">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1877" height="368" key="GridCell.Tab.0.center/0.0.1920.1019@0.0.1920.1019" timestamp="1579488340533" />
-    <state width="1877" height="368" key="GridCell.Tab.0.left" timestamp="1579488340532">
+    <state width="1877" height="289" key="GridCell.Tab.0.center/0.0.1920.1019@0.0.1920.1019" timestamp="1579493233354" />
+    <state width="1877" height="289" key="GridCell.Tab.0.left" timestamp="1579493233353">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1877" height="368" key="GridCell.Tab.0.left/0.0.1920.1019@0.0.1920.1019" timestamp="1579488340532" />
-    <state width="1877" height="368" key="GridCell.Tab.0.right" timestamp="1579488340533">
+    <state width="1877" height="289" key="GridCell.Tab.0.left/0.0.1920.1019@0.0.1920.1019" timestamp="1579493233353" />
+    <state width="1877" height="289" key="GridCell.Tab.0.right" timestamp="1579493233354">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1877" height="368" key="GridCell.Tab.0.right/0.0.1920.1019@0.0.1920.1019" timestamp="1579488340533" />
-    <state width="1877" height="368" key="GridCell.Tab.1.bottom" timestamp="1579488340363">
+    <state width="1877" height="289" key="GridCell.Tab.0.right/0.0.1920.1019@0.0.1920.1019" timestamp="1579493233354" />
+    <state width="1877" height="289" key="GridCell.Tab.1.bottom" timestamp="1579493233100">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1877" height="368" key="GridCell.Tab.1.bottom/0.0.1920.1019@0.0.1920.1019" timestamp="1579488340363" />
-    <state width="1877" height="368" key="GridCell.Tab.1.center" timestamp="1579488340363">
+    <state width="1877" height="289" key="GridCell.Tab.1.bottom/0.0.1920.1019@0.0.1920.1019" timestamp="1579493233100" />
+    <state width="1877" height="289" key="GridCell.Tab.1.center" timestamp="1579493233100">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1877" height="368" key="GridCell.Tab.1.center/0.0.1920.1019@0.0.1920.1019" timestamp="1579488340363" />
-    <state width="1877" height="368" key="GridCell.Tab.1.left" timestamp="1579488340363">
+    <state width="1877" height="289" key="GridCell.Tab.1.center/0.0.1920.1019@0.0.1920.1019" timestamp="1579493233100" />
+    <state width="1877" height="289" key="GridCell.Tab.1.left" timestamp="1579493233100">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1877" height="368" key="GridCell.Tab.1.left/0.0.1920.1019@0.0.1920.1019" timestamp="1579488340363" />
-    <state width="1877" height="368" key="GridCell.Tab.1.right" timestamp="1579488340363">
+    <state width="1877" height="289" key="GridCell.Tab.1.left/0.0.1920.1019@0.0.1920.1019" timestamp="1579493233100" />
+    <state width="1877" height="289" key="GridCell.Tab.1.right" timestamp="1579493233100">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1877" height="368" key="GridCell.Tab.1.right/0.0.1920.1019@0.0.1920.1019" timestamp="1579488340363" />
-    <state width="1877" height="368" key="GridCell.Tab.2.bottom" timestamp="1579488340363">
+    <state width="1877" height="289" key="GridCell.Tab.1.right/0.0.1920.1019@0.0.1920.1019" timestamp="1579493233100" />
+    <state width="1877" height="289" key="GridCell.Tab.2.bottom" timestamp="1579493233101">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1877" height="368" key="GridCell.Tab.2.bottom/0.0.1920.1019@0.0.1920.1019" timestamp="1579488340363" />
-    <state width="1877" height="368" key="GridCell.Tab.2.center" timestamp="1579488340363">
+    <state width="1877" height="289" key="GridCell.Tab.2.bottom/0.0.1920.1019@0.0.1920.1019" timestamp="1579493233101" />
+    <state width="1877" height="289" key="GridCell.Tab.2.center" timestamp="1579493233100">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1877" height="368" key="GridCell.Tab.2.center/0.0.1920.1019@0.0.1920.1019" timestamp="1579488340363" />
-    <state width="1877" height="368" key="GridCell.Tab.2.left" timestamp="1579488340363">
+    <state width="1877" height="289" key="GridCell.Tab.2.center/0.0.1920.1019@0.0.1920.1019" timestamp="1579493233100" />
+    <state width="1877" height="289" key="GridCell.Tab.2.left" timestamp="1579493233100">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1877" height="368" key="GridCell.Tab.2.left/0.0.1920.1019@0.0.1920.1019" timestamp="1579488340363" />
-    <state width="1877" height="368" key="GridCell.Tab.2.right" timestamp="1579488340363">
+    <state width="1877" height="289" key="GridCell.Tab.2.left/0.0.1920.1019@0.0.1920.1019" timestamp="1579493233100" />
+    <state width="1877" height="289" key="GridCell.Tab.2.right" timestamp="1579493233100">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1877" height="368" key="GridCell.Tab.2.right/0.0.1920.1019@0.0.1920.1019" timestamp="1579488340363" />
+    <state width="1877" height="289" key="GridCell.Tab.2.right/0.0.1920.1019@0.0.1920.1019" timestamp="1579493233100" />
     <state x="739" y="236" key="Maven.ArtifactSearchDialog" timestamp="1578297766061">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
@@ -4776,10 +4839,10 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="273" y="173" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1577426948147" />
-    <state x="150" y="294" width="950" height="600" key="find.popup" timestamp="1579488568902">
+    <state x="150" y="293" width="950" height="600" key="find.popup" timestamp="1579493222561">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="150" y="294" width="950" height="600" key="find.popup/0.0.1920.1019@0.0.1920.1019" timestamp="1579488568902" />
+    <state x="150" y="293" width="950" height="600" key="find.popup/0.0.1920.1019@0.0.1920.1019" timestamp="1579493222561" />
     <state x="467" y="301" key="git4idea.merge.GitPullDialog" timestamp="1579009511934">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
