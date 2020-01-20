@@ -15,7 +15,7 @@ public interface GroupMsgDao {
      *
      * @return
      */
-    List<GroupMsg> listByGroupIdAndCreateTime(@Param(value = "groupId") Long groupId,
+    List<GroupMsg> listByGroupIdAndcreateTime(@Param(value = "groupId") Long groupId,
                                               @Param(value = "createTime") Date createTime,
                                               @Param("offset") Integer offset,
                                               @Param("limit") Integer limit);

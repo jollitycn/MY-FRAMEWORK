@@ -52,12 +52,12 @@ public final class WSBaseResProtoOuterClass {
     /**
      * <code>string create_time = 4;</code>
      */
-    java.lang.String getCreateTime();
+    java.lang.String getcreateTime();
     /**
      * <code>string create_time = 4;</code>
      */
     com.google.protobuf.ByteString
-        getCreateTimeBytes();
+        getcreateTimeBytes();
   }
   /**
    * <pre>
@@ -228,7 +228,7 @@ public final class WSBaseResProtoOuterClass {
     /**
      * <code>string create_time = 4;</code>
      */
-    public java.lang.String getCreateTime() {
+    public java.lang.String getcreateTime() {
       java.lang.Object ref = createTime_;
       if (ref instanceof java.lang.String) {
         return (java.lang.String) ref;
@@ -244,7 +244,7 @@ public final class WSBaseResProtoOuterClass {
      * <code>string create_time = 4;</code>
      */
     public com.google.protobuf.ByteString
-        getCreateTimeBytes() {
+        getcreateTimeBytes() {
       java.lang.Object ref = createTime_;
       if (ref instanceof java.lang.String) {
         com.google.protobuf.ByteString b = 
@@ -280,7 +280,7 @@ public final class WSBaseResProtoOuterClass {
       if (user_ != null) {
         output.writeMessage(3, getUser());
       }
-      if (!getCreateTimeBytes().isEmpty()) {
+      if (!getcreateTimeBytes().isEmpty()) {
         com.google.protobuf.GeneratedMessageV3.writeString(output, 4, createTime_);
       }
       unknownFields.writeTo(output);
@@ -304,7 +304,7 @@ public final class WSBaseResProtoOuterClass {
         size += com.google.protobuf.CodedOutputStream
           .computeMessageSize(3, getUser());
       }
-      if (!getCreateTimeBytes().isEmpty()) {
+      if (!getcreateTimeBytes().isEmpty()) {
         size += com.google.protobuf.GeneratedMessageV3.computeStringSize(4, createTime_);
       }
       size += unknownFields.getSerializedSize();
@@ -334,8 +334,8 @@ public final class WSBaseResProtoOuterClass {
         if (!getUser()
             .equals(other.getUser())) return false;
       }
-      if (!getCreateTime()
-          .equals(other.getCreateTime())) return false;
+      if (!getcreateTime()
+          .equals(other.getcreateTime())) return false;
       if (!unknownFields.equals(other.unknownFields)) return false;
       return true;
     }
@@ -358,7 +358,7 @@ public final class WSBaseResProtoOuterClass {
         hash = (53 * hash) + getUser().hashCode();
       }
       hash = (37 * hash) + CREATE_TIME_FIELD_NUMBER;
-      hash = (53 * hash) + getCreateTime().hashCode();
+      hash = (53 * hash) + getcreateTime().hashCode();
       hash = (29 * hash) + unknownFields.hashCode();
       memoizedHashCode = hash;
       return hash;
@@ -607,7 +607,7 @@ public final class WSBaseResProtoOuterClass {
         if (other.hasUser()) {
           mergeUser(other.getUser());
         }
-        if (!other.getCreateTime().isEmpty()) {
+        if (!other.getcreateTime().isEmpty()) {
           createTime_ = other.createTime_;
           onChanged();
         }
@@ -904,7 +904,7 @@ public final class WSBaseResProtoOuterClass {
       /**
        * <code>string create_time = 4;</code>
        */
-      public java.lang.String getCreateTime() {
+      public java.lang.String getcreateTime() {
         java.lang.Object ref = createTime_;
         if (!(ref instanceof java.lang.String)) {
           com.google.protobuf.ByteString bs =
@@ -920,7 +920,7 @@ public final class WSBaseResProtoOuterClass {
        * <code>string create_time = 4;</code>
        */
       public com.google.protobuf.ByteString
-          getCreateTimeBytes() {
+          getcreateTimeBytes() {
         java.lang.Object ref = createTime_;
         if (ref instanceof String) {
           com.google.protobuf.ByteString b = 
@@ -935,7 +935,7 @@ public final class WSBaseResProtoOuterClass {
       /**
        * <code>string create_time = 4;</code>
        */
-      public Builder setCreateTime(
+      public Builder setcreateTime(
           java.lang.String value) {
         if (value == null) {
     throw new NullPointerException();
@@ -948,16 +948,16 @@ public final class WSBaseResProtoOuterClass {
       /**
        * <code>string create_time = 4;</code>
        */
-      public Builder clearCreateTime() {
+      public Builder clearcreateTime() {
         
-        createTime_ = getDefaultInstance().getCreateTime();
+        createTime_ = getDefaultInstance().getcreateTime();
         onChanged();
         return this;
       }
       /**
        * <code>string create_time = 4;</code>
        */
-      public Builder setCreateTimeBytes(
+      public Builder setcreateTimeBytes(
           com.google.protobuf.ByteString value) {
         if (value == null) {
     throw new NullPointerException();
@@ -1062,7 +1062,7 @@ public final class WSBaseResProtoOuterClass {
     internal_static_protocol_WSBaseResProto_fieldAccessorTable = new
       com.google.protobuf.GeneratedMessageV3.FieldAccessorTable(
         internal_static_protocol_WSBaseResProto_descriptor,
-        new java.lang.String[] { "Type", "Message", "User", "CreateTime", });
+        new java.lang.String[] { "Type", "Message", "User", "createTime", });
     com.lmxdawn.him.common.protobuf.WSMessageResProtoOuterClass.getDescriptor();
     com.lmxdawn.him.common.protobuf.WSUserResProtoOuterClass.getDescriptor();
   }

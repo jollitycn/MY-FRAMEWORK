@@ -35,14 +35,14 @@ public class GroupMsgServiceImpl implements GroupMsgService {
     private WSServer wsServer;
 
     @Override
-    public List<GroupMsg> listByGroupIdAndCreateTime(Long groupId, Date createTime, Integer page, Integer limit) {
+    public List<GroupMsg> listByGroupIdAndcreateTime(Long groupId, Date createTime, Integer page, Integer limit) {
         Integer offset = PageUtils.createOffset(page, limit);
-        return groupMsgDao.listByGroupIdAndCreateTime(groupId, createTime, offset, limit);
+        return groupMsgDao.listByGroupIdAndcreateTime(groupId, createTime, offset, limit);
     }
 
     @Override
     public boolean insertGroupMsg(GroupMsg groupMsg) {
-        groupMsg.setCreateTime(new Date());
+        groupMsg.setcreateTime(new Date());
         groupMsg.setModifiedTime(new Date());
         return groupMsgDao.insertGroupMsg(groupMsg);
     }

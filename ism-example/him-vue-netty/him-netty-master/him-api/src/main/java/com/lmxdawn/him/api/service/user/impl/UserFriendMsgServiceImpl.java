@@ -22,7 +22,7 @@ public class UserFriendMsgServiceImpl implements UserFriendMsgService {
 
     @Override
     public boolean insertUserFriendMsg(UserFriendMsg userFriendMsg) {
-        userFriendMsg.setCreateTime(new Date());
+        userFriendMsg.setcreateTime(new Date());
         return userFriendMsgDao.insertUserFriendMsg(userFriendMsg);
     }
 }

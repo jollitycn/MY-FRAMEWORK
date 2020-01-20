@@ -162,7 +162,7 @@ public class UserFriendMsgController {
         userFriend1.setFriendUid(senderUid);
         userFriend1.setUnMsgCount(1);
         userFriend1.setLastMsgContent(lastMsgContent);
-        userFriend1.setCreateTime(new Date());
+        userFriend1.setcreateTime(new Date());
         userFriend1.setModifiedTime(new Date());
         userFriends.add(userFriend1);
         // 给当前用户更新最后一次的消息
@@ -171,7 +171,7 @@ public class UserFriendMsgController {
         userFriend2.setFriendUid(receiverUid);
         userFriend2.setUnMsgCount(0);
         userFriend2.setLastMsgContent(lastMsgContent);
-        userFriend2.setCreateTime(new Date());
+        userFriend2.setcreateTime(new Date());
         userFriend2.setModifiedTime(new Date());
         userFriends.add(userFriend2);
         

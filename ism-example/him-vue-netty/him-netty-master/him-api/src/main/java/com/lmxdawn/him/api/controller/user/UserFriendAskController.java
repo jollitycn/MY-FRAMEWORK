@@ -239,7 +239,7 @@ public class UserFriendAskController {
     userFriend1.setFriendUid(friendUid);
     userFriend1.setRemark("");
     userFriend1.setLastMsgContent(msgContent);
-    userFriend1.setCreateTime(new Date());
+    userFriend1.setcreateTime(new Date());
     userFriend1.setModifiedTime(new Date());
     userFriends.add(userFriend1);
 
@@ -249,7 +249,7 @@ public class UserFriendAskController {
     userFriend2.setFriendUid(uid);
     userFriend2.setRemark("");
     userFriend2.setLastMsgContent(msgContent);
-    userFriend2.setCreateTime(new Date());
+    userFriend2.setcreateTime(new Date());
     userFriend2.setModifiedTime(new Date());
     userFriends.add(userFriend2);
 
@@ -261,13 +261,13 @@ public class UserFriendAskController {
     UserProfile userProfile1 = new UserProfile();
     userProfile1.setUid(uid);
     userProfile1.setFriendCount(1);
-    userProfile1.setCreateTime(new Date());
+    userProfile1.setcreateTime(new Date());
     userProfile1.setModifiedTime(new Date());
     userProfileArrayList.add(userProfile1);
     UserProfile userProfile2 = new UserProfile();
     userProfile2.setUid(friendUid);
     userProfile2.setFriendCount(1);
-    userProfile2.setCreateTime(new Date());
+    userProfile2.setcreateTime(new Date());
     userProfile2.setModifiedTime(new Date());
     userProfileArrayList.add(userProfile2);
     boolean b2 = userProfileService.incFriendCountAll(userProfileArrayList);

@@ -8,6 +8,10 @@
       <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-auth/ism-auth-client/ism-auth-client.iml" filepath="$PROJECT_DIR$/ism-framework/ism-auth/ism-auth-client/ism-auth-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-auth/ism-auth-common/ism-auth-common.iml" filepath="$PROJECT_DIR$/ism-framework/ism-auth/ism-auth-common/ism-auth-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-auth/ism-auth-server/ism-auth-server.iml" filepath="$PROJECT_DIR$/ism-framework/ism-auth/ism-auth-server/ism-auth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-common/ism-common-core/ism-common-core.iml" filepath="$PROJECT_DIR$/ism-framework/ism-common/ism-common-core/ism-common-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-common/ism-common-data/ism-common-data.iml" filepath="$PROJECT_DIR$/ism-framework/ism-common/ism-common-data/ism-common-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-common/ism-common-log/ism-common-log.iml" filepath="$PROJECT_DIR$/ism-framework/ism-common/ism-common-log/ism-common-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-common/ism-common-security/ism-common-security.iml" filepath="$PROJECT_DIR$/ism-framework/ism-common/ism-common-security/ism-common-security.iml" />
       <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-config/ism-config.iml" filepath="$PROJECT_DIR$/ism-framework/ism-config/ism-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-control/ism-control.iml" filepath="$PROJECT_DIR$/ism-framework/ism-control/ism-control.iml" />
       <module fileurl="file://$PROJECT_DIR$/ism-framework/ism-control/ism-registry/ism-eureka/ism-eureka.iml" filepath="$PROJECT_DIR$/ism-framework/ism-control/ism-registry/ism-eureka/ism-eureka.iml" />

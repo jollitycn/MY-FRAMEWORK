@@ -75,7 +75,7 @@ public class GroupMsgController {
             return ResultVOUtils.error(ResultEnum.PARAM_VERIFY_FALL, "不是该群成员~");
         }
 
-        List<GroupMsg> groupMsgs = groupMsgService.listByGroupIdAndCreateTime(groupId, groupUser.getCreateTime(), page, limit);
+        List<GroupMsg> groupMsgs = groupMsgService.listByGroupIdAndcreateTime(groupId, groupUser.getcreateTime(), page, limit);
 
         List<GroupMsgListResVO> groupMsgListResVOS = new ArrayList<>();
         if (groupMsgs.size() == 0) {

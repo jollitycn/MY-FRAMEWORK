@@ -35,7 +35,7 @@ public class GroupServiceImpl implements GroupService {
 
     @Override
     public boolean insertGroup(Group group) {
-        group.setCreateTime(new Date());
+        group.setcreateTime(new Date());
         group.setModifiedTime(new Date());
         return groupDao.insertGroup(group);
     }

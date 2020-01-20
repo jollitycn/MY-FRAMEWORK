@@ -44,7 +44,7 @@ public class UserServiceImpl implements UserService {
     
     @Override
     public boolean insertUser(User user) {
-        user.setCreateTime(new Date());
+        user.setcreateTime(new Date());
         user.setModifiedTime(new Date());
         return userDao.insertUser(user);
     }

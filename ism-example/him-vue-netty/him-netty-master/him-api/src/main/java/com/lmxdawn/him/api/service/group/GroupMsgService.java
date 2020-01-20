@@ -7,7 +7,7 @@ import java.util.List;
 
 public interface GroupMsgService {
 
-    List<GroupMsg> listByGroupIdAndCreateTime(Long groupId, Date createTime, Integer page, Integer limit);
+    List<GroupMsg> listByGroupIdAndcreateTime(Long groupId, Date createTime, Integer page, Integer limit);
 
     boolean insertGroupMsg(GroupMsg groupMsg);
 

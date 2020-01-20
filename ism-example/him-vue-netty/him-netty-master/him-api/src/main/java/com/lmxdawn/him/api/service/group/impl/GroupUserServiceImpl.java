@@ -35,7 +35,7 @@ public class GroupUserServiceImpl implements GroupUserService {
 
     @Override
     public boolean insertGroupUser(GroupUser groupUser) {
-        groupUser.setCreateTime(new Date());
+        groupUser.setcreateTime(new Date());
         groupUser.setModifiedTime(new Date());
         return groupUserDao.insertGroupUser(groupUser);
     }

@@ -35,7 +35,7 @@ public class UserProfileServiceImpl implements UserProfileService {
     UserProfile userProfile = new UserProfile();
     userProfile.setUid(uid);
     userProfile.setFriendAskCount(count);
-    userProfile.setCreateTime(new Date());
+    userProfile.setcreateTime(new Date());
     userProfile.setModifiedTime(new Date());
     return userProfileDao.insertUserProfile(userProfile);
   }

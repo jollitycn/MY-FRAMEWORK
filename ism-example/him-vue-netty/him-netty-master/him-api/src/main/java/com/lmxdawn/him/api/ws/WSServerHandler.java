@@ -91,7 +91,7 @@ public class WSServerHandler extends SimpleChannelInboundHandler<WSBaseReqProtoO
             // 登录异常, 发送下线通知
             WSBaseResProtoOuterClass.WSBaseResProto wsBaseResProto = WSBaseResProtoOuterClass.WSBaseResProto.newBuilder()
                     .setType(WSResTypeConstant.LOGIN_OUT)
-                    .setCreateTime(new Date().toString())
+                    .setcreateTime(new Date().toString())
                     .build();
             // 发送下线消息
             ctx.channel().writeAndFlush(wsBaseResProto);
@@ -104,7 +104,7 @@ public class WSServerHandler extends SimpleChannelInboundHandler<WSBaseReqProtoO
         if (channel != null && !ctx.channel().id().equals(channel.id())) {
             WSBaseResProtoOuterClass.WSBaseResProto wsBaseResProto = WSBaseResProtoOuterClass.WSBaseResProto.newBuilder()
                     .setType(WSResTypeConstant.WS_OUT)
-                    .setCreateTime(new Date().toString())
+                    .setcreateTime(new Date().toString())
                     .build();
             // 发送下线消息
             channel.writeAndFlush(wsBaseResProto);

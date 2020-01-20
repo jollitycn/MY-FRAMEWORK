@@ -94,7 +94,7 @@ public class WSServer {
                 .setType(wsBaseReqVO.getType())
                 .setMessage(wsMessageResProto)
                 .setUser(wsUserResProto)
-                .setCreateTime(new Date().toString())
+                .setcreateTime(new Date().toString())
                 .build();
 
         channel.writeAndFlush(wsBaseResProto);

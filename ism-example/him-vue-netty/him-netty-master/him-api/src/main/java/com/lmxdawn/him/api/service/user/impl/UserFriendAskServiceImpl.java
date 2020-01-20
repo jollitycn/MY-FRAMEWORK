@@ -29,7 +29,7 @@ public class UserFriendAskServiceImpl implements UserFriendAskService {
     
     @Override
     public boolean insertUserFriendAsk(UserFriendAsk userFriendAsk) {
-        userFriendAsk.setCreateTime(new Date());
+        userFriendAsk.setcreateTime(new Date());
         userFriendAsk.setModifiedTime(new Date());
         return userFriendAskDao.insertUserFriendAsk(userFriendAsk);
     }

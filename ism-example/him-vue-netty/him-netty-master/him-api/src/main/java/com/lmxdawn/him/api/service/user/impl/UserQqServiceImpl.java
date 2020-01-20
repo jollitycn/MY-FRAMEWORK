@@ -21,7 +21,7 @@ public class UserQqServiceImpl implements UserQqService {
     
     @Override
     public boolean insertUserQq(UserQq userQq) {
-        userQq.setCreateTime(new Date());
+        userQq.setcreateTime(new Date());
         return userQqDao.insertUserQq(userQq);
     }
     

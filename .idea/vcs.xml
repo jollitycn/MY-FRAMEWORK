@@ -6,5 +6,6 @@
     <mapping directory="$PROJECT_DIR$/ism-framework/springboot-socketio" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/jollitycn/jwt/socket/client/android/socket-chat-for-android" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ism-framework/springboot-socketio/src/test/java/com/jollitycn/jwt/socket/client/android/socket.io-android-chat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ism-project/AdminLTE" vcs="Git" />
   </component>
 </project>
