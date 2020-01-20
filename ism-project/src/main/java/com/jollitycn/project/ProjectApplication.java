@@ -1,4 +1,4 @@
-package com.insigma.project;
+package com.jollitycn.project;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

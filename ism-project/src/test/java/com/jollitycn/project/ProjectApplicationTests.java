@@ -1,4 +1,4 @@
-package com.insigma.project;
+package com.jollitycn.project;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
