@@ -1,0 +1,4 @@
+com\lmxdawn\him\api\BaseApplicationTest.class
+com\lmxdawn\him\api\service\group\impl\GroupServiceImplTest.class
+com\lmxdawn\him\api\service\user\impl\UserFriendMsgServiceImplTest.class
+com\lmxdawn\him\api\service\user\impl\UserFriendServiceImplTest.class
