@@ -1,2 +1,2 @@
 # MY-FRAMEWORK
-MY FRAMEWORK
+MY FRAMEWORK 快速开发框架, 一站式部署.提高开发效率的利器必备.根据最新的技术更新.支持跨平台,跨行业,跨语言的开发

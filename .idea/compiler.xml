@@ -8,9 +8,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ism-project" />
-        <module name="ism-config" />
-        <module name="ism-registry" />
         <module name="ism-service-quartz" />
+        <module name="ism-registry" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
@@ -46,6 +45,7 @@
       <module name="ism-common-security" options="" />
       <module name="ism-common-swagger" options="" />
       <module name="ism-config" options="-parameters" />
+      <module name="ism-deploy" options="-parameters" />
       <module name="ism-eureka" options="-parameters" />
       <module name="ism-example" options="-parameters" />
       <module name="ism-framework" options="-parameters" />
@@ -55,6 +55,8 @@
       <module name="ism-project" options="-parameters" />
       <module name="ism-registry" options="-parameters" />
       <module name="ism-service-quartz" options="-parameters" />
+      <module name="ism-service-socket" options="-parameters" />
+      <module name="ism-services" options="-parameters" />
       <module name="ism-sidecar-client-demo" options="-parameters" />
       <module name="ism-sidecar-server" options="-parameters" />
       <module name="ism-tool" options="-parameters" />

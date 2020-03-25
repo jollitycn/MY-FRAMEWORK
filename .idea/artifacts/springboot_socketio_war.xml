@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springboot-socketio:war">
+    <output-path>$PROJECT_DIR$/ism-framework/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>springboot-socketio</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="springboot-socketio-1.0.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="springboot-socketio:war exploded" />
+    </root>
+  </artifact>
+</component>
